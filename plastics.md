@@ -3,6 +3,8 @@ layout: post
 title: Disc Golf Plastics Matrix
 ---
 
+### Disc Golf Plastics Matrix
+
 |  Premium     |  < Light   |  Recycled   |  Weather      |  Glow         |  Durability  |  < Light     |  Pro      |  Hard >>>        |  Premium Base      |  <<< Soft            |  Base
 ----------------|--------------|------------|-------------|---------------|---------------|--------------|--------------|-----------|------------------|--------------------|----------------------|------------
 Innova          |  Star        |  StarLite  |  Echo Star  |  GStar        |  Glow Champ   |  Champion    |  Blizzard    |  Pro      |  KC-Pro          |  XT                |  R-Pro               |  DX
