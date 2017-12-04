@@ -15,7 +15,7 @@ Dynamic Discs   |  Fuzion      |            |  BioFuzion  |  Fluid        |  Moo
 Westside Discs  |  Tournament  |            |  Muovi R    |  Elasto       |  Moonshine    |  VIP         |  VIP Air     |           |  BT Hard         |  BT Medium         |  BT Soft             |  Origio
 Latitude 64     |  Gold Line   |            |  Recycled   |  Frost Line   |  Moonshine    |  Opto Line   |  Opto Air    |           |  Zero Line Hard  |  Zero Line Medium  |  Zero Line Soft      |  Retro Line
 Legacy          |  Icon        |            |             |  Legend       |               |  Pinnacle    |  Ultralight  |           |                  |  Protege           |  Gravity             |  Excel
-Gateway         |  Evolution   |            |  OG         |               |  SuperGlow    |              |              |           |  Soft            |  Stupid Soft       |  Really F. Flexible  |  Super Soft
+Gateway         |  Evolution   |            |  OG         |               |  SuperGlow    |              |              |           |  Soft            |  Stupid Soft       |  Really Freaking Flexible  |  Super Soft
 RPM             |  Atomic      |            |             |               |               |  Cosmic      |              |           |                  |                    |                      |  Strata
 Prodigy         |  750         |            |             |  400g         |               |  450         |  Air         |  400      |  300             |  300G              |  350Rx               |  200
 DGA             |  Pro-Line    |            |             |               |               |  SP-Line     |              |           |  Signature-Line  |                    |                      |  D-Line
