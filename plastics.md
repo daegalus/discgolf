@@ -22,7 +22,7 @@ DGA             |  Pro-Line    |            |             |               |     
 Hyzerbomb       |  Frontline   |            |             |  Frontline-X  |               |  Recon       |              |           |  Baseline Hard   |  Baseline          |  Baseline Soft       |
 
 
-
+##### Descriptions
 * **Premium** - Usually the manufacturers durable and highest quality discs. Usually true to numbers
 * **Premium Light** - Same as Premium, but usually infused with air bubbles to make them super light. Usually true to numbers
 * **Recycled** - Uses left over byproduct from Premium and Durable plastics to make a new type of plastic. Just as durable.
