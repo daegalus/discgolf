@@ -17,6 +17,6 @@ Latitude 64     |  Gold Line   |            |  Recycled   |  Frost Line   |  Moo
 Legacy          |  Icon        |            |             |  Legend       |               |  Pinnacle    |  Ultralight  |           |                  |  Protege           |  Gravity             |  Excel
 Gateway         |  Evolution   |            |  OG         |               |  SuperGlow    |              |              |           |  Soft            |  Stupid Soft       |  Really Freaking Flexible  |  Super Soft
 RPM             |  Atomic      |            |             |               |               |  Cosmic      |              |           |                  |                    |                      |  Strata
-Prodigy         |  750         |            |             |  400g         |               |  400         |  Air         |           |               |  300G              |  350Rx               |  200
+Prodigy         |  400         |            |             |  400g         |               |  750         |  Air         |           |               |  300G              |  350Rx               |  200
 DGA             |  Pro-Line    |            |             |               |               |  SP-Line     |              |           |  Signature-Line  |                    |                      |  D-Line
 Hyzerbomb       |  Frontline   |            |             |  Frontline-X  |               |  Recon       |              |           |  Baseline Hard   |  Baseline          |  Baseline Soft       |
