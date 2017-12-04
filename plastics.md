@@ -1,5 +1,5 @@
 ---
-layout: headerless.html
+layout: headerless
 title: Disc Golf Plastics Matrix
 ---
 
