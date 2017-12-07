@@ -18,7 +18,7 @@ Legacy          |  Icon        |            |             |  Legend       |     
 Gateway         |  Evolution Diamond  |     |  OG         |               |  SuperGlow    |  Evolution Platinum   |     |           |  Soft            |  Stupid Soft       |  Really Freaking Flexible  |             |  Super Soft
 RPM             |  Atomic      |            |             |               |               |  Cosmic      |              |           |                  |                    |                      |                   |  Strata
 Prodigy         |  400g        |            |             |  400          |               |  750         |  Air         |           |  300G            |  300S              |  350Rx               |                   |  200
-DGA             |  Pro-Line    |            |             |               |               |  SP-Line     |  RDGA        |           |                  |                    | Signature-Line       |                   |  D-Line
+DGA             |  Pro-Line    |            |             |               |  Glow SP-Line |  SP-Line     |  RDGA        |           |                  |                    | Signature-Line       |                   |  D-Line
 Hyzerbomb       |  Frontline   |            |             |  Frontline-X  |               |  Recon       |              |           |  Baseline Hard   |  Baseline          |  Baseline Soft       |                   |
 Prodiscus       |  Ultrium     |            |             |               |               |  Premium     |              |           |                  |  Base              |                      |                   |
 
