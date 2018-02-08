@@ -5,28 +5,32 @@ title: Disc Golf Plastics Matrix
 
 ### Disc Golf Plastics Matrix
 
-|               |  Premium     |  Premium Light |  Recycled  |  Gummy Premium (cold weather) |  Glow |  Durable  |  Durable Light |  Pro      |  Hard Premium Base        |  Premium Base      |  Soft Premium Base         | Base Glow  | Base
-----------------|--------------|------------|-------------|---------------|---------------|--------------|--------------|-----------|------------------|--------------------|----------------------|-------------------|------------
-Innova          |  Star        |  StarLite  |  Echo Star  |  GStar        |  Glow Champ   |  Champion    |  Blizzard    |  Pro      |  KC-Pro          |  XT                |  R-Pro               |  DX Glow          |  DX
-Discmania       |  S-Line      |            |             |  G-Line       |  Glow C-Line  |  C-Line      |              |  P-Line   |                  |  X-Line            |                      |  D-Line Glow      |  D-Line
-MVP, Axiom, & Streamline  |  Neutron |  Fission   | FX (experimental) |  Plasma       |  Eclipse      |  Proton      |              |           |  Electron Firm   | Electron           |  Electron Soft       |                   |
-Discraft        |  ESP         |            |             |  ESP/Z FLX    |  ESP/Z Glo    |  Elite Z     |  Z Lite      |  Elite X  |                  |  CT                |  Pro-D Soft          |                   |  Pro D
-Dynamic Discs   |  Fuzion      |            |  BioFuzion  |  Fluid        |  Moonshine    |  Lucid       |  Lucid Air   |           |  Classic         |  Classic Blend     |  Classic Soft        |                   |  Prime
-Westside Discs  |  Tournament  |            |  Muovi R    |  Elasto       |  Moonshine    |  VIP         |  VIP Air     |           |  BT Hard         |  BT Medium         |  BT Soft             |                   |  Origio
-Latitude 64     |  Gold Line   |            |  Recycled   |  Frost Line   |  Moonshine    |  Opto Line   |  Opto Air    |           |  Zero Line Hard  |  Zero Line Medium  |  Zero Line Soft      |                   |  Retro Line
-Legacy          |  Icon        |            |             |  Legend       |               |  Pinnacle    |  Ultralight  |           |  Protege         |                    |  Gravity             |                   |  Excel
-Gateway         |  Evolution Diamond  |     |  OG         |               |  SuperGlow    |  Evolution Platinum   |     |           |  Soft            |  Stupid Soft       |  Really Freaking Flexible  |             |  Super Soft
-RPM             |  Atomic      |            |             |               |               |  Cosmic      |              |           |                  |                    |                      |                   |  Strata
-Prodigy         |  400g        |            |             |  400          |               |  750         |  Air         |           |  300G            |  300S              |  350Rx               |                   |  200
-DGA             |  Pro-Line    |            |             |               |  Glow SP-Line |  SP-Line     |  RDGA        |           |                  |                    | Signature-Line       |                   |  D-Line
-Hyzerbomb       |  Frontline   |            |             |  Frontline-X  |               |  Recon       |              |           |  Baseline Hard   |  Baseline          |  Baseline Soft       |                   |
-Prodiscus       |  Ultrium     |            |             |               |               |  Premium     |              |           |                  |  Base              |                      |                   |
+|               |  Premium     |  Premium Light |  Recycled  |  Gummy Premium (cold weather) | Super Durable | Glow |  Durable  |  Durable Light |  Pro      |  Hard Premium Base        |  Premium Base      |  Soft Premium Base         | Base Glow  | Base
+----------------|--------------|------------|-------------|---------------|---------------|--------------|--------------|--------------|-----------|------------------|--------------------|----------------------|-------------------|------------
+Innova          |  Star        |  StarLite  |  Echo Star  |  GStar        |              |  Glow Champ   |  Champion    |  Blizzard    |  Pro      |  KC-Pro          |  XT                |  R-Pro               |  DX Glow          |  DX
+Discmania       |  S-Line      |            |             |  G-Line       |              |  Glow C-Line  |  C-Line      |              |  P-Line   |                  |  X-Line            |                      |  D-Line Glow      |  D-Line
+MVP, Axiom, & Streamline | Neutron | Fission |            |  Plasma       |  FX**        |  Eclipse      |  Proton      |              |           |  Electron Firm   | Electron           |  Electron Soft       |                   |
+Discraft        |  ESP         |            |             |  ESP/Z FLX    |  Ti          |  ESP/Z Glo    |  Elite Z     |  Z Lite      |  Elite X  |                  |  CT                |  Pro-D Soft          |                   |  Pro D
+Dynamic Discs   |  Fuzion      |            |  BioFuzion  |  Fluid        |  Hybrid      |  Moonshine    |  Lucid       |  Lucid Air   |           |  Classic         |  Classic Blend     |  Classic Soft        |                   |  Prime
+Westside Discs  |  Tournament  |            |  Muovi R    |  Elasto       |  Hybrid      |  Moonshine    |  VIP         |  VIP Air     |           |  BT Hard         |  BT Medium         |  BT Soft             |                   |  Origio
+Latitude 64     |  Gold Line   |            |  Recycled   |  Frost Line   |  Hybrid      |  Moonshine    |  Opto Line   |  Opto Air    |           |  Zero Line Hard  |  Zero Line Medium  |  Zero Line Soft      |                   |  Retro Line
+Legacy          |  Icon        |            |             |  Legend       |              |               |  Pinnacle    |  Ultralight  |           |  Protege         |                    |  Gravity             |                   |  Excel
+Gateway         |  Evolution Diamond  |     |  OG         |               |              |  SuperGlow    |  Evolution Platinum   |     |           |  Soft            |  Stupid Soft       |  Really Freaking Flexible  |             |  Super Soft
+RPM             |  Atomic      |            |             |               |              |               |  Cosmic      |              |           |                  |                    |                      |                   |  Strata
+Prodigy         |  400g        |            |             |  450          |  750         |               |  400/400s    |  Air         |           |  300G            |  300S              |  350Rx               |                   |  200
+DGA             |  Pro-Line    |            |             |               |              |  Glow SP-Line |  SP-Line     |  RDGA        |           |                  |                    | Signature-Line       |                   |  D-Line
+Hyzerbomb       |  Frontline   |            |             |  Frontline-X  |              |               |  Recon       |              |           |  Baseline Hard   |  Baseline          |  Baseline Soft       |                   |
+Prodiscus       |  Ultrium     |            |             |               |              |               |  Premium     |              |           |                  |  Base              |                      |                   |
+
+** FX is an experimental plastic, and only rarely found. Usually has a Proton stamp on it.
 
 ##### Descriptions
+
 * **Premium** - Usually the manufacturers durable and highest quality discs. Usually true to numbers
 * **Premium Light** - Same as Premium, but usually infused with air bubbles to make them super light. Usually true to numbers
 * **Recycled** - Uses left over byproduct from Premium and Durable plastics to make a new type of plastic. Just as durable.
 * **Premium Gummy** - A variation of the premium plastic that is softer and gummier and can handle the cold weather. Great for winter, usually slight understable from the numbers.
+* **Super Durable** - Usually a Durable and Premium mix, resulting in a super durable disc that might have qualities of both discs mixed together. Sometimes opaque, others more milky translucent.
 * **Glow** - Usually the durable or premium plastic variation that has glow components added to make the disc glow in the dark. Usually a bit more overstable than Durable plastic.
 * **Durable** - A durable plastic that can take a beating, usually the most durable of the plastics. Flies a bit more overstable and tends to be translucent or a bit see-through
 * **Durable Light** - Same as the durable plastic but infused with air bubbles to make it lighter.
