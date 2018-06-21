@@ -5,7 +5,7 @@ title: MVP/Axiom Numbers
 
 # MVP/Axiom Numbers
 
-|    Disc    | Speed | Glide | Turn | Fade |     |   Disc   | Speed | Glide | Turn | Fade |
+|     MVP    | Speed | Glide | Turn | Fade |     |  Axiom   | Speed | Glide | Turn | Fade |
 | :--------: | :---: | :---: | :--: | :--: | --- | :------: | :---: | :---: | :--: | :--: |
 |   Limit    | 14.5  |  3.5  |  0   |  4   |     |          |       |       |      |      |
 | Dimension  | 14.5  |   5   |  0   |  3   |     | Tantrum  | 14.5  |   5   | -1.5 |  3   |
