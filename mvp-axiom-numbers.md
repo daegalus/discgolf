@@ -25,7 +25,7 @@ title: MVP/Axiom Numbers
 |   Motion   |   9   |  3.5  |  0   |  4   |     | Fireball |   9   |  3.5  |  0   | 3.5  |
 |   Tesla    |   9   |   5   |  -1  |  2   |     |  Wrath   |   9   |  4.5  | -0.5 |  2   |
 |  Inertia   |   9   |   5   |  -2  |  2   |     | Insanity |   9   |   5   |  -2  | 1.5  |
-|  Impulse   |   9   |   5   |  -3  |  1   |     |  Virus   |   9   |   5   |  -2  | 1.5  |
+|  Impulse   |   9   |   5   |  -3  |  1   |     |  Virus   |   9   |   5   | -3.5 |  1   |
 |            |       |       |      |      |
 |   Shock    |   8   |   5   |  0   | 2.5  |
 |    Volt    |   8   |   5   | -0.5 |  2   |
