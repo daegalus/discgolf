@@ -35,7 +35,7 @@ Prodiscus       |  Ultrium     |            |             |               |     
 * **Durable** - A durable plastic that can take a beating, usually the most durable of the plastics. Flies a bit more overstable and tends to be translucent or a bit see-through
 * **Durable Light** - Same as the durable plastic but infused with air bubbles to make it lighter.
 * **Pro** - I don't really throw it, but its a plastic mix tougher than base plastic, but not quite as the premium and durable plastics. Has a bit of grippyness to it.
-* **Hard Premium Base** - Usuually the premium base plastic made firmer for those that prefer a firmer disc. A bit grippy
-* **Premium Base** - A disc that is slightly more durable than the cheap base plastic. Still relatively cheap platic, but lasts a bit longer and takes a bit more beating. Usually preferred for putting. A bit grippy
+* **Hard Premium Base** - Usually the premium base plastic made firmer for those that prefer a firmer disc. A bit grippy
+* **Premium Base** - A disc that is slightly more durable than the cheap base plastic. Still relatively cheap plastic, but lasts a bit longer and takes a bit more beating. Usually preferred for putting. A bit grippy
 * **Soft Premium Base** - A softer premium base for those that like a gummier and softer base plastic, usually for putting.
-* **Base** - This is the most base platic, usually very grippy and great for putters or a good cheap disc. They beat in real fast, and show wear after a few throws.
+* **Base** - This is the most base plastic, usually very grippy and great for putters or a good cheap disc. They beat in real fast, and show wear after a few throws.
