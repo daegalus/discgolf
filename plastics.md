@@ -21,6 +21,7 @@ Prodigy         |  400g        |            |             |  450          |  750
 DGA             |  Pro-Line    |            |             |               |              |  Glow SP-Line |  SP-Line     |  RDGA        |           |                  |                    | Signature-Line       |                   |  D-Line
 Hyzerbomb       |  Frontline   |            |             |  Frontline-X  |              |               |  Recon       |              |           |  Baseline Hard   |  Baseline          |  Baseline Soft       |                   |
 Prodiscus       |  Ultrium     |            |             |               |              |               |  Premium     |              |           |                  |  Base              |                      |                   |
+Kastaplast      |  K2-Line     |            |             |               |  K1-Line     |  K1 Glow-Line |              |              |           |                  |  K3-Line           |                      |                   |
 
 ** FX is an experimental plastic, and only rarely found. Usually has a Proton stamp on it.
 
