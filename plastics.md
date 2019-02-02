@@ -40,3 +40,5 @@ title: Disc Golf Plastics Matrix
 * **Premium Base** - A disc that is slightly more durable than the cheap base plastic. Still relatively cheap platic, but lasts a bit longer and takes a bit more beating. Usually preferred for putting. A bit grippy
 * **Soft Premium Base** - A softer premium base for those that like a gummier and softer base plastic, usually for putting.
 * **Base** - This is the most base platic, usually very grippy and great for putters or a good cheap disc. They beat in real fast, and show wear after a few throws.
+
+*Updated February 2nd, 2019 @ 3:21 PM PST*
