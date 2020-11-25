@@ -22,6 +22,7 @@ title: Disc Golf Plastics Matrix
 | Hyzerbomb                | Frontline  |               |           | Frontline-X                  |               |              | Recon     |               |         | Baseline Hard           | Baseline         | Baseline Soft     |             |            |
 | Prodiscus                | Ultrium    |               |           |                              |               |              | Premium   |               |         |                         | Base             |                   |             |            |
 | Kastaplat                | K2         |               |           |                              |               | K1 Glow      | K1        |               |         |                         | K3               |                   |             |            |
+| Mint                     | Apex       |               |           | Sublime                      |               | Nocturnal    | Eternal   |               |         |                         | Royal            |                   |             |            |
 
 ** FX is an experimental plastic, and only rarely found. Usually has a Proton stamp on it. Its a Proton/Plasma blend.
 
