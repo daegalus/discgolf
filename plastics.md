@@ -23,6 +23,7 @@ title: Disc Golf Plastics Matrix
 | Prodiscus                | Ultrium    |               |           |                              |               |              | Premium   |               |         |                         | Base             |                   |             |            |
 | Kastaplat                | K2         |               |           |                              |               | K1 Glow      | K1        |               |         |                         | K3               |                   |             |            |
 | Mint                     | Apex       |               |           | Sublime                      |               | Nocturnal    | Eternal   |               |         |                         | Royal            |                   |             |            |
+| Though Space Athletics    | Aura       |               |           | Ethereal                     |               |              | Ethos     |               |         |                         |                  |                   |             |            |
 
 ** FX is an experimental plastic, and only rarely found. Usually has a Proton stamp on it. Its a Proton/Plasma blend.
 
@@ -42,4 +43,4 @@ title: Disc Golf Plastics Matrix
 * **Soft Premium Base** - A softer premium base for those that like a gummier and softer base plastic, usually for putting.
 * **Base** - This is the most base plastic, usually very grippy and great for putters or a good cheap disc. They beat in real fast, and show wear after a few throws.
 
-*Updated February 2nd, 2019 @ 3:21 PM PST*
+*Updated November 25th, 2020 @ 2:12 PM PST*
