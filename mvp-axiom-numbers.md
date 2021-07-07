@@ -1,9 +1,9 @@
 ---
 layout: headerless
-title: MVP/Axiom Numbers
+title: MVP/Axiom/Streamline Numbers
 ---
 
-# MVP/Axiom Numbers
+# MVP/Axiom/Streamline Numbers
 
 |    MVP     | Speed | Glide | Turn  | Fade  |     |  Axiom   | Speed | Glide | Turn  | Fade  |     | Streamline | Speed | Glide | Turn  | Fade  |
 | :--------: | :---: | :---: | :---: | :---: | --- | :------: | :---: | :---: | :---: | :---: | --- | :--------: | :---: | :---: | :---: | :---: |
@@ -49,7 +49,7 @@ title: MVP/Axiom Numbers
 |    Ohm     |   2   |   5   |   0   |   1   |     |          |       |       |       |       |     |   Pilot    |   2   |   5   |   0   |   1   |
 |   Nomad    |   2   |   4   |   0   |   1   |     |          |       |       |       |       |     |            |       |       |       |       |
 
-## OOP Discs
+## Out of Production Discs (OOP)
 
 |   MVP    | Speed | Glide | Turn  | Fade  |     |  Axiom  | Speed | Glide | Turn  | Fade  |     | Streamline | Speed | Glide | Turn  | Fade  |
 | :------: | :---: | :---: | :---: | :---: | --- | :-----: | :---: | :---: | :---: | :---: | --- | :--------: | :---: | :---: | :---: | :---: |
