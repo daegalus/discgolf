@@ -50,6 +50,7 @@ title: MVP/Axiom Numbers
 |   Nomad    |   2   |   4   |   0   |   1   |     |          |       |       |       |       |     |            |       |       |       |       |
 
 ## OOP Discs
+
 |   MVP    | Speed | Glide | Turn  | Fade  |     |  Axiom  | Speed | Glide | Turn  | Fade  |     | Streamline | Speed | Glide | Turn  | Fade  |
 | :------: | :---: | :---: | :---: | :---: | --- | :-----: | :---: | :---: | :---: | :---: | --- | :--------: | :---: | :---: | :---: | :---: |
 |  Limit   | 14.5  |  3.5  |   0   |   4   |     | Thrill  |  11   |   4   |   0   |  3.5  |     |            |       |       |       |       |
