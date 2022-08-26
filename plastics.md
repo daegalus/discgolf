@@ -23,7 +23,8 @@ title: Disc Golf Plastics Matrix
 | Prodiscus                | Ultrium    |               |           |                              |               |              | Premium   |               |         |                         | Base             |                   |             |            |
 | Kastaplat                | K2         |               |           |                              |               | K1 Glow      | K1        |               |         |                         | K3               |                   |             |            |
 | Mint                     | Apex       |               |           | Sublime                      |               | Nocturnal    | Eternal   |               |         |                         | Royal            |                   |             |            |
-| Though Space Athletics    | Aura       |               |           | Ethereal                     |               |              | Ethos     |               |         |                         |                  |                   |             |            |
+| Though Space Athletics   | Aura       |               |           | Ethereal                     |               |              | Ethos     |               |         |                         |                  |                   |             |            |
+| Viking Discs             | Armor      |               |           |                              |               |              | Storm     |               |         |                         |                  |                   |             | Ground     |
 
 ** FX is an experimental plastic, and only rarely found. Usually has a Proton stamp on it. Its a Proton/Plasma blend.
 
