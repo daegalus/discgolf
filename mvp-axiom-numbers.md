@@ -2,7 +2,6 @@
 layout: headerless
 title: MVP/Axiom/Streamline Numbers
 ---
-
 # MVP/Axiom/Streamline Numbers
 
 |    MVP     | Speed | Glide | Turn  | Fade  |     |  Axiom   | Speed | Glide | Turn  | Fade  |     | Streamline | Speed | Glide | Turn  | Fade  |
@@ -18,8 +17,9 @@ title: MVP/Axiom/Streamline Numbers
 |  Catalyst  |  13   |  5.5  |  -2   |   2   |     | Tenacity |  13   |   5   | -2.5  |   2   |     |            |       |       |       |       |
 |            |       |       |       |       |     |          |       |       |       |       |     |            |       |       |       |       |
 |   Phase    |  11   |  3.5  |   0   |   4   |     |   Defy   |  11   |   5   |  -1   |   3   |     |            |       |       |       |       |
-|   Photon   |  11   |   5   |  -1   |  2.5  |     |          |       |       |       |       |     |   Trace    |  11   |   5   |  -1   |   2   |
-|    Wave    |  11   |   5   |  -2   |   2   |     |  Vanish  |  11   |   5   |  -3   |   2   |     |            |       |       |       |       |
+|   Photon   |  11   |   5   |  -1   |  2.5  |     |          |       |       |       |       |     |            |       |       |       |       |
+|   Zenith   |  11   |   5   | -0.5  |   2   |     |          |       |       |       |       |     |   Trace    |  11   |   5   |  -1   |   2   |
+|    Wave    |  11   |   5   |  -2   |   2   |     |  Vanish  |  11   |   5   |  -3   |   2   |     |    Jet     |  11   |   5   |  -3   |   2   |
 |  Orbital   |  11   |   5   | -4.5  |   1   |     |          |       |       |       |       |     |            |       |       |       |       |
 |            |       |       |       |       |     |          |       |       |       |       |     |            |       |       |       |       |
 |   Motion   |   9   |  3.5  |   0   |   4   |     | Fireball |   9   |  3.5  |   0   |  3.5  |     |   Flare    |   9   |   4   |   0   |  3.5  |
@@ -27,17 +27,19 @@ title: MVP/Axiom/Streamline Numbers
 |  Inertia   |   9   |   5   |  -2   |   2   |     | Insanity |   9   |   5   |  -2   |  1.5  |     |    Lift    |   9   |   5   |  -2   |  1.5  |
 |  Impulse   |   9   |   5   |  -3   |   1   |     |  Virus   |   9   |   5   | -3.5  |   1   |     |            |       |       |       |       |
 |            |       |       |       |       |     |          |       |       |       |       |     |            |       |       |       |       |
+|   Terra    |   8   |   5   |   0   |   3   |     |          |       |       |       |       |     |            |       |       |       |       |
 |    Volt    |   8   |   5   | -0.5  |   2   |     |          |       |       |       |       |     |            |       |       |       |       |
 |            |       |       |       |       |     |          |       |       |       |       |     |            |       |       |       |       |
+|            |       |       |       |       |     |  Rhythm  |   7   |   5   |  -2   |   1   |     |            |       |       |       |       |
 |  Resistor  |  6.5  |   4   |   0   |  3.5  |     |          |       |       |       |       |     |            |       |       |       |       |
 |   Servo    |  6.5  |   5   |  -1   |   2   |     |  Crave   |  6.5  |   5   |  -1   |   1   |     |   Drift    |   7   |   5   |  -2   |   1   |
 |   Relay    |   6   |   5   |  -2   |   1   |     |          |       |       |       |       |     |            |       |       |       |       |
-|   Signal   |   6   |   5   |  -3   |   1   |     |          |       |       |       |       |     |            |       |       |       |       |
+|   Signal   |   6   |   5   |  -3   |   1   |     |          |       |       |       |       |     |   Ascend   |   6   |   5   |  -3   |  0.5  |
 |            |       |       |       |       |     |          |       |       |       |       |     |            |       |       |       |       |
 | Deflector  |   5   |  3.5  |   0   |   4   |     |   Pyro   |   5   |   4   |   0   |  2.5  |     |   Runway   |   5   |   4   |   0   |  3.5  |
 |  Reactor   |   5   |   5   | -0.5  |  1.5  |     |   Hex    |   5   |   5   |  -1   |   1   |     |            |       |       |       |       |
-|   Uplift   |  5?   |   5   |  -1?  |  1?   |     |          |       |       |       |       |     |            |       |       |       |       |
-|   Matrix   |   5   |   4   |  -1   |   2   |     | Paradox  |  5?   |   5   |  -2?  |  1?   |     |            |       |       |       |       |
+|   Matrix   |   5   |   4   |  -1   |   2   |     |          |       |       |       |       |     |            |       |       |       |       |
+|   Uplink   |   5   |   5   |  -3   |  0.5  |     | Paradox  |   5   |   4   |  -4   |   0   |     |            |       |       |       |       |
 |            |       |       |       |       |     |          |       |       |       |       |     |            |       |       |       |       |
 |  Entropy   |   4   |   3   |   0   |   3   |     |   Envy   |   3   |   3   |   0   |   2   |     | Stabilizer |   3   |  3.5  |   0   |   3   |
 |    Atom    |   3   |   3   |   0   |   1   |     |  Proxy   |   3   |   3   |  -1   |  0.5  |     |            |       |       |       |       |
@@ -46,8 +48,9 @@ title: MVP/Axiom/Streamline Numbers
 |   Anode    |  2.5  |   3   |   0   |  0.5  |     |          |       |       |       |       |     |            |       |       |       |       |
 |    Spin    |  2.5  |   4   |  -2   |   0   |     |          |       |       |       |       |     |            |       |       |       |       |
 |            |       |       |       |       |     |          |       |       |       |       |     |            |       |       |       |       |
+|   Nomad    |   2   |   4   |   0   |  1.5  |     |          |       |       |       |       |     |            |       |       |       |       |
 |    Ohm     |   2   |   5   |   0   |   1   |     |          |       |       |       |       |     |   Pilot    |   2   |   5   |   0   |   1   |
-|   Nomad    |   2   |   4   |   0   |   1   |     |          |       |       |       |       |     |            |       |       |       |       |
+|   Glitch   |   1   |   7   |   0   |   0   |     |          |       |       |       |       |     |            |       |       |       |       |
 
 ## Out of Production Discs (OOP)
 

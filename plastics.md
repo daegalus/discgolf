@@ -3,6 +3,8 @@ layout: headerless
 title: Disc Golf Plastics Matrix
 ---
 
+## OUTDATED: Please use the one on dgputtheads.com
+
 ### Disc Golf Plastics Matrix
 
 | Company                  | Premium    | Premium Light | Recycled  | Gummy Premium (cold weather) | Super Durable | Glow         | Durable   | Durable Light | Pro     | Hard Premium Base       | Premium Base     | Soft Premium Base | Base Glow   | Base       |
